@@ -17,4 +17,4 @@ applications:
       cache:
         paths:
           - .npm/**/*
-      appRoot: checkpoint
+    appRoot: checkpoint
