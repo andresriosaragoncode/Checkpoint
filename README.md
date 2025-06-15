@@ -1,2 +1,3 @@
 # Checkpoint
-a tool to log in daily coding progress
+
+a tool to log in daily coding progress.
